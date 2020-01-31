@@ -712,3 +712,384 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.31-21.19.55:771][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
 [2020.01.31-21.19.55:773][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2020.01.31-21.19.55:790][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.31-21.23.59:633][941]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.31-21.23.59:699][941]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.31-21.23.59:717][941]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.31-21.23.59:727][941]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 31, 2020, 11:23:59 PM)
+[2020.01.31-21.23.59:802][941]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.01.31-21.23.59:808][941]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.01.31-21.23.59:824][941]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.01.31-21.23.59:937][941]LogPlayLevel: PIE: StaticDuplicateObject took: (0.111690s)
+[2020.01.31-21.23.59:951][941]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.01.31-21.23.59:959][941]LogPlayLevel: PIE: World Init took: (0.021966s)
+[2020.01.31-21.23.59:959][941]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.133981s)
+[2020.01.31-21.23.59:990][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.01.31-21.24.00:046][941]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.31-21.24.00:046][941]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.31-21.24.00:046][941]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.31-21.24.00:046][941]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.31-21.24.00:046][941]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.31-21.24.00:046][941]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.31-21.24.00:046][941]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.31-21.24.00:046][941]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.31-21.24.00:046][941]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.31-21.24.00:047][941]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.31-21.24.00:062][941]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.31-21.24.00:062][941]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2020.01.31-21.24.00:062][941]LogAudioMixer: Display: Is Default: Yes
+[2020.01.31-21.24.00:062][941]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.31-21.24.00:062][941]LogAudioMixer: Display: Channel Count Used: 8
+[2020.01.31-21.24.00:062][941]LogAudioMixer: Display: Device Channel Count: 8
+[2020.01.31-21.24.00:062][941]LogAudioMixer: Display: Channel Order:
+[2020.01.31-21.24.00:062][941]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.31-21.24.00:062][941]LogAudioMixer: Display: 1: FrontRight
+[2020.01.31-21.24.00:062][941]LogAudioMixer: Display: 2: FrontCenter
+[2020.01.31-21.24.00:062][941]LogAudioMixer: Display: 3: LowFrequency
+[2020.01.31-21.24.00:062][941]LogAudioMixer: Display: 4: BackLeft
+[2020.01.31-21.24.00:062][941]LogAudioMixer: Display: 5: BackRight
+[2020.01.31-21.24.00:062][941]LogAudioMixer: Display: 6: SideLeft
+[2020.01.31-21.24.00:062][941]LogAudioMixer: Display: 7: SideRight
+[2020.01.31-21.24.00:195][941]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2020.01.31-21.24.00:196][941]LogInit: FAudioDevice initialized.
+[2020.01.31-21.24.00:272][941]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.01.31-21.24.00:386][941]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2020.01.31-22.24.00
+[2020.01.31-21.24.00:411][941]LogWorld: Bringing up level for play took: 0.027294
+[2020.01.31-21.24.00:423][941]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2020.01.31-21.24.00:668][941]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 20 classes and 0 folders.
+[2020.01.31-21.24.00:684][941]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.638
+[2020.01.31-21.24.00:684][941]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.31-21.24.34:386][946]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.31-21.24.34:395][946]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.01.31-21.24.34:414][946]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.01.31-21.24.34:747][946]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.31-21.24.34:785][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-21.24.34:785][946]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.01.31-21.24.34:785][946]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.31-21.24.34:785][946]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-21.24.34:794][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.31-21.24.34:804][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.31-21.24.34:804][946]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.31-21.24.34:809][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.31-21.24.34:838][946]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.31-21.24.34:842][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-21.24.34:845][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.01.31-21.24.34:858][947]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.01.31-21.24.46:509][645]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LeftEdge)
+[2020.01.31-21.24.48:481][761]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (RightEdge)
+[2020.01.31-21.24.53:949][ 88]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2020.01.31-21.24.56:893][256]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2020.01.31-21.25.09:127][983]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2020.01.31-21.25.09:727][ 18]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2020.01.31-21.26.24:407][483]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2020.01.31-21.26.29:367][779]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_25)
+[2020.01.31-21.26.58:726][465]LogSlate: Took 0.030351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.31-21.27.09:542][109]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2020.01.31-21.27.11:903][243]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.31-21.27.16:163][495]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/Ledge.Ledge
+[2020.01.31-21.27.16:536][495]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.31-21.27.16:772][495]LogRenderer: Reallocating scene render targets to support 1528x916 Format 10 NumSamples 1 (Frame:1).
+[2020.01.31-21.27.18:981][618]LogSlate: Window 'Ledge' being destroyed
+[2020.01.31-21.27.43:094][ 32]LogTexture: Display: Building textures: 2DBackgroundTile (AutoDXT, 256X256)
+[2020.01.31-21.27.43:094][ 32]LogMaterial: Display: Missing cached shader map for material PrototypingSpriteMaterial, compiling. 
+[2020.01.31-21.27.43:285][ 32]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.01.31-21.27.43:285][ 32]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.01.31-21.27.43:285][ 32]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2020.01.31-21.27.43:285][ 32]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2020.01.31-21.27.43:285][ 32]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2020.01.31-21.27.43:292][ 32]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/PrototypingSprite.PrototypingSprite
+[2020.01.31-21.27.47:345][266]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-21.27.47:345][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.31-21.27.48:373][326]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-21.27.48:373][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.31-21.27.48:382][326]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.01.31-21.29.10:636][257]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2020.01.31-21.30.27:066][245]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.01.31-21.30.50:185][591]LogDirectoryWatcher: A directory notification failed for 'D:/Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Content/Developers/BasW/Collections/' because it could not be accessed. Aborting watch request...
+[2020.01.31-21.31.15:103][ 72]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.31-21.31.15:105][ 72]LogStaticMesh: Building static mesh Floor_400x400...
+[2020.01.31-21.31.15:106][ 72]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.01.31-21.31.17:222][ 72]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2020.01.31-21.31.17:420][ 72]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.01.31-21.31.19:050][ 72]LogAIModule: Creating AISystem for world StarterMap
+[2020.01.31-21.31.19:859][ 72]LogObjectTools: Deleting 3 worlds: /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting, /Game/StarterContent/Maps/Minimal_Default.Minimal_Default, /Game/StarterContent/Maps/StarterMap.StarterMap
+[2020.01.31-21.31.19:860][ 72]LogObjectTools: Currently 3 active worlds: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2020.01.31-21.31.19:892][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.01.31-21.31.57:116][ 72]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.31-21.31.57:326][ 72]LogWorld: UWorld::CleanupWorld for Advanced_Lighting, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-21.31.57:326][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.31-21.31.57:333][ 72]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-21.31.57:334][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.31-21.31.57:343][ 72]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-21.31.57:343][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.31-21.31.58:494][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.01.31-21.31.58:520][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.01.31-21.31.58:544][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.01.31-21.31.58:567][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.31.58:591][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.31.58:615][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.58:639][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.58:670][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.58:694][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.31.58:719][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.31.58:744][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.31.58:767][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.31.58:790][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.58:813][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.58:835][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.58:858][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.58:884][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.58:909][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.58:932][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.31.58:957][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.31.58:980][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.59:004][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.31.59:027][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.59:050][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.59:074][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.31.59:100][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.31.59:123][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.59:147][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.31.59:170][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.31.59:193][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.01.31-21.31.59:217][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.59:241][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.31.59:264][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.59:289][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.59:315][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.59:340][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.31.59:364][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.31.59:387][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.59:411][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.59:435][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.59:460][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.31.59:484][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.59:507][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.59:538][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.31.59:561][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.59:584][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.59:608][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.31.59:632][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.59:655][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.59:679][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.59:702][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.31.59:726][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.59:756][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.59:780][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.01.31-21.31.59:803][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.31.59:826][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.59:850][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.31.59:874][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.01.31-21.31.59:900][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.01.31-21.31.59:925][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.31.59:948][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.31.59:978][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.00:004][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.01.31-21.32.00:032][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.01.31-21.32.00:056][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.00:078][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.00:101][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.00:126][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.00:151][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.00:181][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.00:205][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.01.31-21.32.00:228][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.00:252][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.00:276][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.00:301][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.00:327][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.00:350][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.00:374][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.00:403][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.00:427][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.00:450][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.01.31-21.32.00:474][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.01.31-21.32.00:498][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.01.31-21.32.00:522][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.00:545][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.00:568][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.00:593][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.00:622][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.00:645][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.00:668][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.32.00:692][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.00:716][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.00:740][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.00:764][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.00:787][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.00:810][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.00:836][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.32.00:859][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.00:883][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.00:906][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.00:930][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.00:955][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.00:978][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.32.01:004][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.01:026][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.01:052][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.32.01:076][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.01:100][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.01:123][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.01:147][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.32.01:171][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.01:195][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.01:217][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.01.31-21.32.01:242][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.01:272][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.01.31-21.32.01:296][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.01:320][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.01:345][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.01:368][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.01:391][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.01:414][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.32.01:438][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.01:462][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.01:489][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.01:513][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.01:537][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.01:561][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.01:586][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.01:611][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.32.01:635][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.01:658][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.01:682][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.01:708][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.01:732][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.01:755][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.01:779][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.01:803][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.01:829][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.01:853][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.01:876][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.01:901][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.01:928][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.01.31-21.32.01:953][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.01:977][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.02:001][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.02:025][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.02:049][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.02:073][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.02:097][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.02:122][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.02:148][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.32.02:172][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.02:197][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.02:220][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.02:245][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.02:270][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.02:295][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.32.02:319][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.02:343][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.32.02:372][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.02:397][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.02:420][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.02:444][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.02:468][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.02:491][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.02:513][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.02:538][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.02:561][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.02:592][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.32.02:616][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.02:640][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.02:664][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.01.31-21.32.02:688][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.02:712][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.32.02:735][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.02:761][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.02:785][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.02:815][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.01.31-21.32.02:838][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.02:861][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.01.31-21.32.02:885][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.02:910][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.02:934][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.01.31-21.32.02:958][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.02:983][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.03:008][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.03:034][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.01.31-21.32.03:058][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.03:082][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.03:105][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.03:128][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.03:153][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.03:177][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.03:200][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.03:223][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.03:249][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.32.03:274][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.32.03:299][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.03:322][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.03:347][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.03:371][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.03:395][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.32.03:418][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.03:443][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.01.31-21.32.03:468][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.03:493][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.03:516][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.03:541][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.03:566][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.03:589][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.03:614][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.32.03:637][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.03:661][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.03:691][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.01.31-21.32.03:715][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.03:739][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.03:762][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.32.03:785][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.03:809][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.03:832][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.03:855][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.03:879][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.03:925][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.01.31-21.32.03:949][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.03:973][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.03:997][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.04:021][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.04:044][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.01.31-21.32.04:067][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.04:090][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.04:116][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.04:141][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.01.31-21.32.04:164][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.04:187][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.04:211][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.04:236][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.04:259][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.04:283][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.04:307][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.01.31-21.32.04:332][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.04:356][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.04:380][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.32.04:404][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.32.04:428][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.04:453][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.04:477][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.01.31-21.32.04:500][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.04:524][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.01.31-21.32.04:551][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.32.04:574][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.32.04:598][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.32.04:621][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.04:645][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.32.04:669][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.04:693][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.32.04:716][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.04:740][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.04:766][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.04:789][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.04:813][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.04:837][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.04:860][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.04:884][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.04:907][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.04:933][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.01.31-21.32.04:957][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.01.31-21.32.04:984][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.31-21.32.05:008][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.05:032][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.05:057][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.01.31-21.32.05:087][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.01.31-21.32.05:110][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
