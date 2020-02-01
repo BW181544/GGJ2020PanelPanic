@@ -3886,3 +3886,335 @@ Script call stack:
 [2020.02.01-15.26.16:699][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.02.01-15.26.16:702][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
 [2020.02.01-15.26.16:757][757]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.02.01-15.27.27:111][990]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PanelPanic/Assets/Maps/Menu.Menu
+[2020.02.01-15.27.27:148][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.02.01-15.27.28:889][990]LogSlate: Window 'Save Content' being destroyed
+[2020.02.01-15.27.28:936][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.02.01-15.27.29:149][990]LogSavePackage: Moving '../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Saved/Level_09FEEBCE845D066C2298E088C26104A77.tmp' to '../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Content/PanelPanic/Assets/Maps/Level_0.umap'
+[2020.02.01-15.27.29:172][990]LogFileHelpers: Saving map 'Level_0' took 0.273
+[2020.02.01-15.27.29:205][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.02.01-15.27.29:211][990]LogSavePackage: Moving '../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Saved/Menu4910415045A43774CFDF4196CB8CE5FE.tmp' to '../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Content/PanelPanic/Assets/Maps/Menu.umap'
+[2020.02.01-15.27.29:213][990]LogFileHelpers: Saving map 'Menu' took 0.041
+[2020.02.01-15.27.29:216][990]Cmd: MAP LOAD FILE="../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Content/PanelPanic/Assets/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.01-15.27.29:216][990]LightingResults: New page: Lighting Build
+[2020.02.01-15.27.29:217][990]LoadErrors: New page: Loading map: Menu.umap
+[2020.02.01-15.27.29:217][990]LogWorld: UWorld::CleanupWorld for Level_0, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-15.27.29:217][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-15.27.29:217][990]MapCheck: New page: Map Check
+[2020.02.01-15.27.29:217][990]LightingResults: New page: Lighting Build
+[2020.02.01-15.27.29:258][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.02.01-15.27.29:351][990]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.01-15.27.29:351][990]LogAIModule: Creating AISystem for world Menu
+[2020.02.01-15.27.29:391][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.02.01-15.27.29:411][990]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.01-15.27.29:411][990]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.068ms to complete.
+[2020.02.01-15.27.29:411][990]LogFileHelpers: Loading map 'Menu' took 0.198
+[2020.02.01-15.27.29:445][990]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.01-15.27.29:445][990]LogContentValidation: Display: Validating World /Game/PanelPanic/Assets/Maps/Level_0.Level_0
+[2020.02.01-15.27.29:459][990]LogAIModule: Creating AISystem for world Level_0
+[2020.02.01-15.27.29:463][990]LogContentValidation: Display: Validating World /Game/PanelPanic/Assets/Maps/Menu.Menu
+[2020.02.01-15.27.30:885][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.02.01-15.27.30:914][ 72]LogSavePackage: Moving '../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Saved/Menu7AC5DA75421A3D3946487AB0DDEA41A8.tmp' to '../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Content/PanelPanic/Assets/Maps/Menu.umap'
+[2020.02.01-15.27.30:950][ 72]AssetCheck: New page: Asset Save: Menu
+[2020.02.01-15.27.30:950][ 72]LogContentValidation: Display: Validating World /Game/PanelPanic/Assets/Maps/Menu.Menu
+[2020.02.01-15.28.18:688][899]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/PanelPanic/Widgets/WBP_MainMenu.WBP_MainMenu
+[2020.02.01-15.28.41:414][164]LogEditorTransaction: Undo Add Widget
+[2020.02.01-15.28.41:935][180]LogEditorTransaction: Undo Remove Widget
+[2020.02.01-15.29.00:498][282]BlueprintLog: New page: Compile WBP_MainMenu
+[2020.02.01-15.29.00:896][282]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.02.01-15.29.13:371][ 11]BlueprintLog: New page: Compile WBP_MainMenu
+[2020.02.01-15.29.13:417][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.02.01-15.30.24:199][213]LogSlate: Took 0.331850 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.02.01-15.33.15:018][355]BlueprintLog: New page: Compile WBP_MainMenu
+[2020.02.01-15.33.15:070][355]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.02.01-15.34.50:030][  2]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.01-15.37.53:960][914]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.01-15.38.13:830][ 80]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.01-15.38.21:987][560]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.01-15.39.49:367][738]BlueprintLog: New page: Compile WBP_MainMenu
+[2020.02.01-15.39.49:418][738]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2020.02.01-15.39.51:015][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PanelPanic/Widgets/WBP_MainMenu" FILE="../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Content/PanelPanic/Widgets/WBP_MainMenu.uasset" SILENT=true
+[2020.02.01-15.39.51:027][830]LogSavePackage: Moving '../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Saved/WBP_MainMenu770C5B1B4D35A4CBBDA1BFBEE40A95FA.tmp' to '../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Content/PanelPanic/Widgets/WBP_MainMenu.uasset'
+[2020.02.01-15.39.51:045][830]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2020.02.01-15.39.51:045][830]LogContentValidation: Display: Validating WidgetBlueprint /Game/PanelPanic/Widgets/WBP_MainMenu.WBP_MainMenu
+[2020.02.01-15.40.24:096][808]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PanelPanic/Assets/Maps/Menu.Menu
+[2020.02.01-15.40.24:139][808]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.02.01-15.40.24:141][808]Cmd: MAP LOAD FILE="../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Content/PanelPanic/Assets/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.01-15.40.24:141][808]LightingResults: New page: Lighting Build
+[2020.02.01-15.40.24:142][808]LoadErrors: New page: Loading map: Menu.umap
+[2020.02.01-15.40.24:143][808]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-15.40.24:143][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-15.40.24:143][808]MapCheck: New page: Map Check
+[2020.02.01-15.40.24:143][808]LightingResults: New page: Lighting Build
+[2020.02.01-15.40.24:188][808]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.02.01-15.40.24:230][808]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.02.01-15.40.24:271][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.02.01-15.40.24:273][808]LogAIModule: Creating AISystem for world Menu
+[2020.02.01-15.40.24:360][808]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.01-15.40.24:404][808]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.02.01-15.40.24:425][808]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.01-15.40.24:425][808]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.066ms to complete.
+[2020.02.01-15.40.24:425][808]LogFileHelpers: Loading map 'Menu' took 0.285
+[2020.02.01-15.40.30:784][186]LogLinker: Warning: Failed to load '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode': Can't find file.
+[2020.02.01-15.40.30:784][186]LogLinker: Warning: Failed to load '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode': Can't find file.
+[2020.02.01-15.40.30:784][186]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C'
+[2020.02.01-15.40.32:008][254]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel.Menu
+[2020.02.01-15.41.09:500][456]BlueprintLog: New page: Compile Menu
+[2020.02.01-15.41.09:546][456]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.02.01-15.41.10:044][478]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.02.01-15.41.10:284][478]LogSavePackage: Moving '../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Saved/Menu466DFDF047126439B959069F9AD5D536.tmp' to '../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Content/PanelPanic/Assets/Maps/Menu.umap'
+[2020.02.01-15.41.10:308][478]LogFileHelpers: Saving map 'Menu' took 0.378
+[2020.02.01-15.41.10:325][478]AssetCheck: New page: Asset Save: Menu
+[2020.02.01-15.41.10:325][478]LogContentValidation: Display: Validating World /Game/PanelPanic/Assets/Maps/Menu.Menu
+[2020.02.01-15.41.15:595][792]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.02.01-15.41.53:056][982]BlueprintLog: New page: Compile WBP_MainMenu
+[2020.02.01-15.41.53:107][982]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.02.01-15.42.12:581][145]BlueprintLog: New page: Compile WBP_MainMenu
+[2020.02.01-15.42.12:634][145]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.02.01-15.43.34:994][ 59]BlueprintLog: New page: Compile WBP_MainMenu
+[2020.02.01-15.43.35:048][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2020.02.01-15.44.01:439][626]BlueprintLog: New page: Compile WBP_MainMenu
+[2020.02.01-15.44.01:490][626]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2020.02.01-15.44.06:780][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PanelPanic/Widgets/WBP_MainMenu" FILE="../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Content/PanelPanic/Widgets/WBP_MainMenu.uasset" SILENT=true
+[2020.02.01-15.44.06:833][941]LogSavePackage: Moving '../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Saved/WBP_MainMenu478F3AAB4E18A64C9193B2B32B08B5D8.tmp' to '../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Content/PanelPanic/Widgets/WBP_MainMenu.uasset'
+[2020.02.01-15.44.06:854][941]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2020.02.01-15.44.06:855][941]LogContentValidation: Display: Validating WidgetBlueprint /Game/PanelPanic/Widgets/WBP_MainMenu.WBP_MainMenu
+[2020.02.01-15.46.52:204][828]BlueprintLog: New page: Compile Menu
+[2020.02.01-15.46.52:205][828]LogBlueprint: Error: [Compiler PersistentLevel.Menu] Event Dispatcher pin is not connected  Bind Event to Play Button Press
+[2020.02.01-15.46.52:205][828]LogBlueprint: Error: [Compiler PersistentLevel.Menu] Event Dispatcher pin is not connected  Bind Event to Quit Button Press
+[2020.02.01-15.46.52:491][828]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2020.02.01-15.51.10:451][448]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2020.02.01-15.51.10:735][448]LogBlueprint: Error: [Compiler PersistentLevel.Menu] Event Dispatcher pin is not connected  Bind Event to Quit Button Press
+[2020.02.01-15.51.10:982][448]LogSavePackage: Moving '../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Saved/Menu_Auto4140A3B674B8C3E3B5045BAA33B908008.tmp' to '../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Saved/Autosaves/Game/PanelPanic/Assets/Maps/Menu_Auto4.umap'
+[2020.02.01-15.51.10:984][448]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PanelPanic/Assets/Maps/Menu' took 0.582
+[2020.02.01-15.51.10:984][448]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.582
+[2020.02.01-15.56.52:602][496]BlueprintLog: New page: Compile Menu
+[2020.02.01-15.56.52:885][496]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2020.02.01-15.56.53:486][526]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.02.01-15.56.53:738][526]LogSavePackage: Moving '../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Saved/Menu34C826B64ECB6D72299307959D7445E5.tmp' to '../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Content/PanelPanic/Assets/Maps/Menu.umap'
+[2020.02.01-15.56.53:763][526]LogFileHelpers: Saving map 'Menu' took 0.342
+[2020.02.01-15.56.53:781][526]AssetCheck: New page: Asset Save: Menu
+[2020.02.01-15.56.53:781][526]LogContentValidation: Display: Validating World /Game/PanelPanic/Assets/Maps/Menu.Menu
+[2020.02.01-15.56.58:943][831]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.02.01-15.56.59:193][831]LogSavePackage: Moving '../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Saved/Menu4BB785DD4AB85228EF1A2B998FF5E9B5.tmp' to '../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Content/PanelPanic/Assets/Maps/Menu.umap'
+[2020.02.01-15.56.59:219][831]LogFileHelpers: Saving map 'Menu' took 0.328
+[2020.02.01-15.56.59:239][831]AssetCheck: New page: Asset Save: Menu
+[2020.02.01-15.56.59:239][831]LogContentValidation: Display: Validating World /Game/PanelPanic/Assets/Maps/Menu.Menu
+[2020.02.01-15.57.03:683][ 95]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-15.57.03:715][ 95]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/PanelPanic/Assets/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.02.01-15.57.03:715][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-15.57.03:716][ 95]PIE: New page: PIE session: Menu (Feb 1, 2020, 5:57:03 PM)
+[2020.02.01-15.57.03:716][ 95]LogPlayLevel: Creating play world package: /Game/PanelPanic/Assets/Maps/UEDPIE_0_Menu
+[2020.02.01-15.57.03:717][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001250s)
+[2020.02.01-15.57.03:718][ 95]LogAIModule: Creating AISystem for world Menu
+[2020.02.01-15.57.03:718][ 95]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2020.02.01-15.57.03:718][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PanelPanic/Assets/Maps/Menu.Menu to /Game/PanelPanic/Assets/Maps/UEDPIE_0_Menu.Menu (0.002219s)
+[2020.02.01-15.57.03:763][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2020.02.01-15.57.03:764][ 95]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-15.57.03:764][ 95]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-15.57.03:764][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-15.57.03:764][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-15.57.03:764][ 95]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-15.57.03:764][ 95]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-15.57.03:764][ 95]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-15.57.03:764][ 95]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-15.57.03:764][ 95]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-15.57.03:764][ 95]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-15.57.03:779][ 95]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-15.57.03:779][ 95]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2020.02.01-15.57.03:779][ 95]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-15.57.03:779][ 95]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-15.57.03:779][ 95]LogAudioMixer: Display: Channel Count Used: 8
+[2020.02.01-15.57.03:779][ 95]LogAudioMixer: Display: Device Channel Count: 8
+[2020.02.01-15.57.03:779][ 95]LogAudioMixer: Display: Channel Order:
+[2020.02.01-15.57.03:779][ 95]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-15.57.03:779][ 95]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-15.57.03:779][ 95]LogAudioMixer: Display: 2: FrontCenter
+[2020.02.01-15.57.03:779][ 95]LogAudioMixer: Display: 3: LowFrequency
+[2020.02.01-15.57.03:779][ 95]LogAudioMixer: Display: 4: BackLeft
+[2020.02.01-15.57.03:779][ 95]LogAudioMixer: Display: 5: BackRight
+[2020.02.01-15.57.03:779][ 95]LogAudioMixer: Display: 6: SideLeft
+[2020.02.01-15.57.03:779][ 95]LogAudioMixer: Display: 7: SideRight
+[2020.02.01-15.57.03:921][ 95]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2020.02.01-15.57.03:923][ 95]LogInit: FAudioDevice initialized.
+[2020.02.01-15.57.03:931][ 95]LogLoad: Game class is 'GameModeBase'
+[2020.02.01-15.57.03:932][ 95]LogWorld: Bringing World /Game/PanelPanic/Assets/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2020.02.01-16.57.03
+[2020.02.01-15.57.03:932][ 95]LogWorld: Bringing up level for play took: 0.000247
+[2020.02.01-15.57.03:932][ 95]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.02.01-15.57.04:085][ 95]PIE: Play in editor start time for /Game/PanelPanic/Assets/Maps/UEDPIE_0_Menu 0.052
+[2020.02.01-15.57.04:085][ 95]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/PanelPanic/Assets/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.02.01-15.57.05:071][147]LogPackageName: SearchForPackageOnDisk took   0.070s, but failed to resolve None.umap.
+[2020.02.01-15.57.05:071][147]LogLevel: Warning: WARNING: The map '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' does not exist.
+[2020.02.01-15.57.05:144][147]LogPackageName: SearchForPackageOnDisk took   0.069s, but failed to resolve None.umap.
+[2020.02.01-15.57.05:162][147]LogNet: Browse: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2020.02.01-15.57.05:162][147]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2020.02.01-15.57.05:162][147]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap'. Shutting down PIE.
+[2020.02.01-15.57.05:163][147]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap'. Shutting down PIE.
+[2020.02.01-15.57.05:163][147]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2020.02.01-15.57.05:163][147]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap'. Shutting down PIE.
+[2020.02.01-15.57.05:163][147]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap'. Shutting down PIE.
+[2020.02.01-15.57.05:163][147]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-15.57.05:163][147]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-15.57.05:163][147]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/PanelPanic/Assets/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.02.01-15.57.05:164][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-15.57.05:164][147]LogWorld: BeginTearingDown for /Game/PanelPanic/Assets/Maps/UEDPIE_0_Menu
+[2020.02.01-15.57.05:164][147]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-15.57.05:164][147]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-15.57.05:164][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-15.57.05:174][147]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-15.57.05:174][147]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/PanelPanic/Assets/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.02.01-15.57.05:178][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-15.57.05:221][147]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-15.57.05:228][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-15.57.05:232][147]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.02.01-15.57.05:294][148]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.02.01-15.57.22:103][140]LogAIModule: Creating AISystem for world Level_0
+[2020.02.01-15.58.10:324][  5]BlueprintLog: New page: Compile Menu
+[2020.02.01-15.58.10:595][  5]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.02.01-15.58.10:804][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.02.01-15.58.11:051][ 12]LogSavePackage: Moving '../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Saved/MenuC49F398841B006191B91FE9FF0DFE302.tmp' to '../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Content/PanelPanic/Assets/Maps/Menu.umap'
+[2020.02.01-15.58.11:075][ 12]LogFileHelpers: Saving map 'Menu' took 0.311
+[2020.02.01-15.58.11:087][ 12]AssetCheck: New page: Asset Save: Menu
+[2020.02.01-15.58.11:087][ 12]LogContentValidation: Display: Validating World /Game/PanelPanic/Assets/Maps/Menu.Menu
+[2020.02.01-15.58.12:075][ 71]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-15.58.12:097][ 71]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/PanelPanic/Assets/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.02.01-15.58.12:097][ 71]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-15.58.12:097][ 71]PIE: New page: PIE session: Menu (Feb 1, 2020, 5:58:12 PM)
+[2020.02.01-15.58.12:097][ 71]LogPlayLevel: Creating play world package: /Game/PanelPanic/Assets/Maps/UEDPIE_0_Menu
+[2020.02.01-15.58.12:099][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001197s)
+[2020.02.01-15.58.12:099][ 71]LogAIModule: Creating AISystem for world Menu
+[2020.02.01-15.58.12:099][ 71]LogPlayLevel: PIE: World Init took: (0.000735s)
+[2020.02.01-15.58.12:099][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PanelPanic/Assets/Maps/Menu.Menu to /Game/PanelPanic/Assets/Maps/UEDPIE_0_Menu.Menu (0.002026s)
+[2020.02.01-15.58.12:145][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.02.01-15.58.12:146][ 71]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-15.58.12:146][ 71]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-15.58.12:146][ 71]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-15.58.12:146][ 71]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-15.58.12:146][ 71]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-15.58.12:146][ 71]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-15.58.12:146][ 71]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-15.58.12:146][ 71]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-15.58.12:146][ 71]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-15.58.12:146][ 71]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-15.58.12:161][ 71]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-15.58.12:161][ 71]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2020.02.01-15.58.12:161][ 71]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-15.58.12:161][ 71]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-15.58.12:161][ 71]LogAudioMixer: Display: Channel Count Used: 8
+[2020.02.01-15.58.12:161][ 71]LogAudioMixer: Display: Device Channel Count: 8
+[2020.02.01-15.58.12:161][ 71]LogAudioMixer: Display: Channel Order:
+[2020.02.01-15.58.12:161][ 71]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-15.58.12:161][ 71]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-15.58.12:161][ 71]LogAudioMixer: Display: 2: FrontCenter
+[2020.02.01-15.58.12:161][ 71]LogAudioMixer: Display: 3: LowFrequency
+[2020.02.01-15.58.12:161][ 71]LogAudioMixer: Display: 4: BackLeft
+[2020.02.01-15.58.12:161][ 71]LogAudioMixer: Display: 5: BackRight
+[2020.02.01-15.58.12:161][ 71]LogAudioMixer: Display: 6: SideLeft
+[2020.02.01-15.58.12:161][ 71]LogAudioMixer: Display: 7: SideRight
+[2020.02.01-15.58.12:301][ 71]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2020.02.01-15.58.12:302][ 71]LogInit: FAudioDevice initialized.
+[2020.02.01-15.58.12:311][ 71]LogLoad: Game class is 'GameModeBase'
+[2020.02.01-15.58.12:312][ 71]LogWorld: Bringing World /Game/PanelPanic/Assets/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2020.02.01-16.58.12
+[2020.02.01-15.58.12:313][ 71]LogWorld: Bringing up level for play took: 0.000266
+[2020.02.01-15.58.12:313][ 71]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.02.01-15.58.12:315][ 71]PIE: Play in editor start time for /Game/PanelPanic/Assets/Maps/UEDPIE_0_Menu 0.283
+[2020.02.01-15.58.12:315][ 71]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/PanelPanic/Assets/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.02.01-15.58.12:975][111]LogNet: Browse: /Game/PanelPanic/Assets/Maps/Level_0
+[2020.02.01-15.58.13:022][111]LogLoad: LoadMap: /Game/PanelPanic/Assets/Maps/Level_0
+[2020.02.01-15.58.13:022][111]LogWorld: BeginTearingDown for /Game/PanelPanic/Assets/Maps/UEDPIE_0_Menu
+[2020.02.01-15.58.13:023][111]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-15.58.13:023][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-15.58.13:023][111]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-15.58.13:069][111]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.02.01-15.58.13:078][111]LogPlayLevel: Creating play world package: /Game/PanelPanic/Assets/Maps/UEDPIE_0_Level_0
+[2020.02.01-15.58.13:079][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002145s)
+[2020.02.01-15.58.13:080][111]LogAIModule: Creating AISystem for world Level_0
+[2020.02.01-15.58.13:080][111]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2020.02.01-15.58.13:080][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PanelPanic/Assets/Maps/Level_0.Level_0 to /Game/PanelPanic/Assets/Maps/UEDPIE_0_Level_0.Level_0 (0.003062s)
+[2020.02.01-15.58.13:080][111]LogLoad: Game class is 'BP_PanelPanicGamemode_C'
+[2020.02.01-15.58.13:082][111]LogWorld: Bringing World /Game/PanelPanic/Assets/Maps/UEDPIE_0_Level_0.Level_0 up for play (max tick rate 60) at 2020.02.01-16.58.13
+[2020.02.01-15.58.13:082][111]LogWorld: Bringing up level for play took: 0.000757
+[2020.02.01-15.58.13:095][111]LogLoad: Took 0.073292 seconds to LoadMap(/Game/PanelPanic/Assets/Maps/UEDPIE_0_Level_0)
+[2020.02.01-15.58.16:115][292]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-15.58.16:133][292]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.01-15.58.16:163][292]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.01-15.58.16:163][292]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/PanelPanic/Assets/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.02.01-15.58.16:163][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-15.58.16:163][292]LogWorld: BeginTearingDown for /Game/PanelPanic/Assets/Maps/UEDPIE_0_Level_0
+[2020.02.01-15.58.16:163][292]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-15.58.16:164][292]LogWorld: UWorld::CleanupWorld for Level_0, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-15.58.16:164][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-15.58.16:168][292]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-15.58.16:168][292]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/PanelPanic/Assets/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.02.01-15.58.16:174][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-15.58.16:216][292]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-15.58.16:222][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-15.58.16:227][292]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.02.01-15.58.16:241][293]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.02.01-15.58.19:103][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.02.01-15.58.19:349][461]LogSavePackage: Moving '../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Saved/Menu68F5C02B4A932BA170ADAC86C4064BB5.tmp' to '../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Content/PanelPanic/Assets/Maps/Menu.umap'
+[2020.02.01-15.58.19:373][461]LogFileHelpers: Saving map 'Menu' took 0.314
+[2020.02.01-15.58.19:385][461]AssetCheck: New page: Asset Save: Menu
+[2020.02.01-15.58.19:385][461]LogContentValidation: Display: Validating World /Game/PanelPanic/Assets/Maps/Menu.Menu
+[2020.02.01-15.58.21:752][601]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-15.58.21:784][601]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/PanelPanic/Assets/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.02.01-15.58.21:784][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-15.58.21:784][601]PIE: New page: PIE session: Menu (Feb 1, 2020, 5:58:21 PM)
+[2020.02.01-15.58.21:784][601]LogPlayLevel: Creating play world package: /Game/PanelPanic/Assets/Maps/UEDPIE_0_Menu
+[2020.02.01-15.58.21:785][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001278s)
+[2020.02.01-15.58.21:786][601]LogAIModule: Creating AISystem for world Menu
+[2020.02.01-15.58.21:786][601]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2020.02.01-15.58.21:786][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PanelPanic/Assets/Maps/Menu.Menu to /Game/PanelPanic/Assets/Maps/UEDPIE_0_Menu.Menu (0.002111s)
+[2020.02.01-15.58.21:831][601]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.02.01-15.58.21:831][601]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.01-15.58.21:831][601]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.01-15.58.21:831][601]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.01-15.58.21:831][601]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.01-15.58.21:831][601]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.01-15.58.21:831][601]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.01-15.58.21:831][601]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.01-15.58.21:831][601]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.01-15.58.21:832][601]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.01-15.58.21:832][601]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.01-15.58.21:846][601]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.01-15.58.21:846][601]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2020.02.01-15.58.21:846][601]LogAudioMixer: Display: Is Default: Yes
+[2020.02.01-15.58.21:846][601]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.01-15.58.21:846][601]LogAudioMixer: Display: Channel Count Used: 8
+[2020.02.01-15.58.21:846][601]LogAudioMixer: Display: Device Channel Count: 8
+[2020.02.01-15.58.21:846][601]LogAudioMixer: Display: Channel Order:
+[2020.02.01-15.58.21:846][601]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.01-15.58.21:846][601]LogAudioMixer: Display: 1: FrontRight
+[2020.02.01-15.58.21:846][601]LogAudioMixer: Display: 2: FrontCenter
+[2020.02.01-15.58.21:846][601]LogAudioMixer: Display: 3: LowFrequency
+[2020.02.01-15.58.21:846][601]LogAudioMixer: Display: 4: BackLeft
+[2020.02.01-15.58.21:846][601]LogAudioMixer: Display: 5: BackRight
+[2020.02.01-15.58.21:846][601]LogAudioMixer: Display: 6: SideLeft
+[2020.02.01-15.58.21:846][601]LogAudioMixer: Display: 7: SideRight
+[2020.02.01-15.58.21:986][601]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2020.02.01-15.58.21:988][601]LogInit: FAudioDevice initialized.
+[2020.02.01-15.58.21:994][601]LogLoad: Game class is 'GameModeBase'
+[2020.02.01-15.58.21:995][601]LogWorld: Bringing World /Game/PanelPanic/Assets/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2020.02.01-16.58.21
+[2020.02.01-15.58.21:995][601]LogWorld: Bringing up level for play took: 0.000251
+[2020.02.01-15.58.21:995][601]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.02.01-15.58.21:998][601]PIE: Play in editor start time for /Game/PanelPanic/Assets/Maps/UEDPIE_0_Menu -0.035
+[2020.02.01-15.58.21:998][601]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/PanelPanic/Assets/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.02.01-15.58.22:760][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-15.58.22:761][647]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/PanelPanic/Assets/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.02.01-15.58.22:761][647]LogWorld: BeginTearingDown for /Game/PanelPanic/Assets/Maps/UEDPIE_0_Menu
+[2020.02.01-15.58.22:761][647]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-15.58.22:761][647]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-15.58.22:761][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-15.58.22:773][647]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-15.58.22:773][647]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/PanelPanic/Assets/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/PanelPanic/Assets/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.02.01-15.58.22:778][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-15.58.22:819][647]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.01-15.58.22:825][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-15.58.22:829][647]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.02.01-15.58.22:872][649]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.02.01-15.58.26:783][882]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-15.58.26:783][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-15.58.28:527][980]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-15.58.28:527][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-15.58.28:544][980]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-15.58.28:544][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
