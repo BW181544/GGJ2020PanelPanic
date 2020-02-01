@@ -4218,3 +4218,7 @@ Script call stack:
 [2020.02.01-15.58.28:527][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2020.02.01-15.58.28:544][980]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
 [2020.02.01-15.58.28:544][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-15.59.30:294][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PanelPanic/Blueprints/BP_Character" FILE="../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Content/PanelPanic/Blueprints/BP_Character.uasset" SILENT=true
+[2020.02.01-15.59.30:340][504]LogSavePackage: Moving '../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Saved/BP_CharacterE34030B64CBBAF1D1B07B7B295043C85.tmp' to '../../../../../Documents/GGJ2020/GGJ2020PanelPanic/PanelPanic/Content/PanelPanic/Blueprints/BP_Character.uasset'
+[2020.02.01-15.59.30:355][504]AssetCheck: New page: Asset Save: BP_Character
+[2020.02.01-15.59.30:355][504]LogContentValidation: Display: Validating Blueprint /Game/PanelPanic/Blueprints/BP_Character.BP_Character
