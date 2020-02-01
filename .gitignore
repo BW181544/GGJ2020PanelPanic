@@ -76,3 +76,7 @@ DerivedDataCache/*
 StarterContent/*
 *.log
 *.log
+<<<<<<< Updated upstream
+=======
+*.log
+>>>>>>> Stashed changes
